@@ -6,3 +6,6 @@
     - [Wiki](https://en.wikipedia.org/wiki/Quaternion)
     - [C Programming](http://www.cprogramming.com/tutorial/3d/quaternions.html)
 - [Khan Academy - Pixar in a Box](https://www.khanacademy.org/partner-content/pixar)
+- [Intro to Tensor](http://www.ita.uni-heidelberg.de/~dullemond/lectures/tensor/tensor.pdf)
+- [YouTube - What is a Tensor](https://www.youtube.com/watch?v=f5liqUk0ZTw)
+
