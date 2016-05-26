@@ -5,3 +5,4 @@
 - Quaternion
     - [Wiki](https://en.wikipedia.org/wiki/Quaternion)
     - [C Programming](http://www.cprogramming.com/tutorial/3d/quaternions.html)
+- [Khan Academy - Pixar in a Box](https://www.khanacademy.org/partner-content/pixar)
